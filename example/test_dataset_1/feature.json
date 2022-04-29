@@ -1,9 +1,37 @@
 {
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "f64ec59457924983bba563d2f3411d21",
+  "properties": {
+    "datetime": "1259-12-14T15:32:41Z",
+    "proj:epsg": 748952,
+    "version": "868.435.558"
+  },
+  "geometry": null,
+  "links": [
+    {
+      "rel": "root",
+      "href": "catalog.json",
+      "type": "application/json",
+      "title": "P7kaTaHW76t6uJUKGA7Q"
+    },
+    {
+      "rel": "parent",
+      "href": "collection.json",
+      "type": "application/json",
+      "title": "9mfurqs6iNWCSY6_DIkr"
+    },
+    {
+      "rel": "self",
+      "href": "feature.json",
+      "type": "application/json"
+    }
+  ],
   "assets": {
     "XY'<QOE3NU88.5x|7c\u2600H": {
+      "href": "asset_1",
       "created": "1773-10-26T00:57:11+00:00",
       "updated": "1475-02-02T17:22:51+00:00",
-      "href": "asset_1",
       "file:checksum": "1220b5e8e875bdc8eae3880849eb4b80a43ef0581ac568b9b6669e76269a671b3066"
     }
   },
@@ -12,24 +40,5 @@
     "https://stac.linz.govt.nz/v0.0.14/linz/schema.json",
     "https://stac-extensions.github.io/projection/v1.0.0/schema.json",
     "https://stac-extensions.github.io/version/v1.0.0/schema.json"
-  ],
-  "geometry": null,
-  "id": "f64ec59457924983bba563d2f3411d21",
-  "links": [
-    {
-      "href": "catalog.json",
-      "rel": "root"
-    },
-    {
-      "href": "feature.json",
-      "rel": "self"
-    }
-  ],
-  "properties": {
-    "datetime": "1259-12-14T15:32:41Z",
-    "proj:epsg": 748952,
-    "version": "868.435.558"
-  },
-  "stac_version": "1.0.0",
-  "type": "Feature"
+  ]
 }

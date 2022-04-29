@@ -1,20 +1,26 @@
 {
-  "description": "\"\u2070s\u1e02\f\u25a0Mf\u010089@M8Jb)Q;T}h\u0400i\u0100^Mu\u2600%|4%6^](\u2460 ;\t\u2013[+{9*wjjR\rI\"bVegkuGna.\u2013z<hZ7!\u1e02e\nk;\u2300\u2300A\u00a1o\u25804|h\u2300q0L\u2150\"|\u02b0\u2013a?W3KG",
+  "type": "Catalog",
   "id": "e42d2c4f203d44d1a970cc5f634a0a22",
+  "stac_version": "1.0.0",
+  "description": "\"\u2070s\u1e02\f\u25a0Mf\u010089@M8Jb)Q;T}h\u0400i\u0100^Mu\u2600%|4%6^](\u2460 ;\t\u2013[+{9*wjjR\rI\"bVegkuGna.\u2013z<hZ7!\u1e02e\nk;\u2300\u2300A\u00a1o\u25804|h\u2300q0L\u2150\"|\u02b0\u2013a?W3KG",
   "links": [
     {
+      "rel": "child",
       "href": "collection.json",
-      "rel": "child"
+      "type": "application/json",
+      "title": "9mfurqs6iNWCSY6_DIkr"
     },
     {
+      "rel": "root",
       "href": "catalog.json",
-      "rel": "root"
+      "type": "application/json"
     },
     {
+      "rel": "self",
       "href": "catalog.json",
-      "rel": "self"
+      "type": "application/json"
     }
   ],
-  "stac_version": "1.0.0",
-  "type": "Catalog"
+  "stac_extensions": [],
+  "title": "P7kaTaHW76t6uJUKGA7Q"
 }
