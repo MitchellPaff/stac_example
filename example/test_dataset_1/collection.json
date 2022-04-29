@@ -1,0 +1,108 @@
+{
+  "linz:asset_summaries": {
+    "created": {
+      "minimum": "1148-05-30T13:29:56+00:00",
+      "maximum": "1148-05-30T13:29:56+00:00"
+    },
+    "updated": {
+      "minimum": "1320-09-25T07:19:41+00:00",
+      "maximum": "1760-03-13T01:33:08+00:00"
+    }
+  },
+  "linz:geospatial_type": "tin",
+  "linz:history": "\u2070TLO`tL\u0259^qOMec$7=\"xa",
+  "linz:lifecycle": "ongoing",
+  "linz:providers": [
+    {
+      "name": "QwS\u2500P\n9Y\":",
+      "description": "Ov\ud83e\udf00H1iTtK2\u0370Od_D'8,D\u2070",
+      "roles": [
+        "custodian"
+      ],
+      "url": "https://RSsxwSkccsAHQOcYKiJq/rUuxJAE6x825duJ4dmgL/vf5ZAUU4wXSSyOnthOr6/1rQ9rXmFQskq22GTMps3"
+    },
+    {
+      "name": "pywH+G \ud83e\udf00h\u2600",
+      "description": ":\u2013\tr'\u0400(i|+\u2190\u25a0,>|=:m'\r",
+      "roles": [
+        "manager"
+      ],
+      "url": "https://VnedxmkcZhsQuJZdUGIu/CLCUcOCjO5d7cPbXhJLg"
+    }
+  ],
+  "linz:security_classification": "unclassified",
+  "description": "\u3105ab\u0100\u2460\u2150\u0400~\ru9P\u0400%#\r%%\u2300U^5V3f\u2500&\u2600\u2580d\u0370\u2070+[.wkwoo+\")3\u000b\u1f00;udm\u2600LCX~;\u000b_OWP\ud83e\udf00\u1e02&@i8R\u1e02%;\u2100\u2190$w|V\u1f00nZ\"N\u2701S\u000b5\n\ud83e\udf00(7\u2460\ufb00<Q\nPy\ud83e\udf00\u1e02)",
+  "stac_extensions": [
+    "https://stac-extensions.github.io/file/v2.0.0/schema.json",
+    "https://stac.linz.govt.nz/v0.0.14/linz/schema.json",
+    "https://stac.linz.govt.nz/v0.0.14/quality/schema.json",
+    "https://stac-extensions.github.io/projection/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/version/v1.0.0/schema.json"
+  ],
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -180,
+          -90,
+          180,
+          90
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "1336-11-14T19:31:41Z",
+          null
+        ]
+      ]
+    }
+  },
+  "id": "e93f58e81c8b49f181d36ec712ddeae1",
+  "license": "MIT",
+  "links": [
+    {
+      "href": "feature.json",
+      "rel": "item"
+    },
+    {
+      "href": "catalog.json",
+      "rel": "root"
+    },
+    {
+      "href": "collection.json",
+      "rel": "self"
+    }
+  ],
+  "providers": [
+    {
+      "name": "\u2070\u2070!:0\u2300\ufb00+w0",
+      "description": "2*Z\u20a0|XV\u2100q|-&CnN<t*`\t",
+      "roles": [
+        "licensor"
+      ],
+      "url": "https://OMWhyjSUVRyestYVwBYK/3O5NUOWCuZ27GRvIY6Dv/qk8UU3Xz65qwo9huUNIV"
+    },
+    {
+      "name": "<I\u21001t?qq7\ufb00",
+      "description": "t(\u1e02\u25a0\u1f00j/u.;r}I9BcPjcf",
+      "roles": [
+        "producer"
+      ],
+      "url": "https://wbbJzhjlIgpFGjsROYIE/rEjgvJW5wtiRiIyAeexB/z2ZxFQvPSD7EAoPsytCD/c0Brl4fE9XdS4chPVa4z/QVUTxNtq7vtZ82gilKtb"
+    }
+  ],
+  "title": "9mfurqs6iNWCSY6_DIkr",
+  "type": "Collection",
+  "stac_version": "1.0.0",
+  "version": "200.329.938",
+  "assets": {
+    "|\u0259w0`{\u2600T2m\"\r$pjaq_Do": {
+      "created": "1883-05-05T19:29:54+00:00",
+      "updated": "1626-03-03T23:03:19+00:00",
+      "href": "asset_2",
+      "file:checksum": "12201015af5f62abbb9f1179ed54ad14037fd9db371bc194418cad0583cfae40d597"
+    }
+  }
+}

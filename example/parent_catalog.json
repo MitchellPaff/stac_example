@@ -1,0 +1,16 @@
+{
+  "type": "Catalog",
+  "id": "aTP76uJaKGAHW7QU6t7k-01G1T8AK0DCDA3X2N41QBSKJKA",
+  "stac_version": "1.0.0",
+  "description": "\ufb002.H$zO2\u0100\u2150I-\u2200\u3105x$d)l&\u2150F\u0180z%Y3\u3105q(RI;@C}TcU-bP.a=\"dd>X\\]+\r9q,g.l\u0100+.\u2070\u2200d.['\"+?i\u2300hBo[\ufb00\u2460c\u1e02a\u2300M.%_)p\u1e02V.\u2300\u2150[N\u0400wm",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json",
+      "title": "aTP76uJaKGAHW7QU6t7k"
+    }
+  ],
+  "stac_extensions": [],
+  "title": "aTP76uJaKGAHW7QU6t7k"
+}
