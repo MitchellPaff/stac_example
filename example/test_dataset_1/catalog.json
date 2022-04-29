@@ -1,0 +1,20 @@
+{
+  "description": "\"\u2070s\u1e02\f\u25a0Mf\u010089@M8Jb)Q;T}h\u0400i\u0100^Mu\u2600%|4%6^](\u2460 ;\t\u2013[+{9*wjjR\rI\"bVegkuGna.\u2013z<hZ7!\u1e02e\nk;\u2300\u2300A\u00a1o\u25804|h\u2300q0L\u2150\"|\u02b0\u2013a?W3KG",
+  "id": "e42d2c4f203d44d1a970cc5f634a0a22",
+  "links": [
+    {
+      "href": "collection.json",
+      "rel": "child"
+    },
+    {
+      "href": "catalog.json",
+      "rel": "root"
+    },
+    {
+      "href": "catalog.json",
+      "rel": "self"
+    }
+  ],
+  "stac_version": "1.0.0",
+  "type": "Catalog"
+}
