@@ -6,20 +6,25 @@
   "links": [
     {
       "rel": "item",
-      "href": "./feature.json",
+      "href": "feature.json",
       "type": "application/json"
     },
     {
       "rel": "root",
-      "href": "./catalog.json",
+      "href": "catalog.json",
       "type": "application/json",
       "title": "P7kaTaHW76t6uJUKGA7Q"
     },
     {
       "rel": "parent",
-      "href": "./catalog.json",
+      "href": "catalog.json",
       "type": "application/json",
       "title": "P7kaTaHW76t6uJUKGA7Q"
+    },
+    {
+      "rel": "self",
+      "href": "collection.json",
+      "type": "application/json"
     }
   ],
   "stac_extensions": [

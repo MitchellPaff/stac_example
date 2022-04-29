@@ -11,15 +11,20 @@
   "links": [
     {
       "rel": "root",
-      "href": "./catalog.json",
+      "href": "catalog.json",
       "type": "application/json",
       "title": "P7kaTaHW76t6uJUKGA7Q"
     },
     {
       "rel": "parent",
-      "href": "./collection.json",
+      "href": "collection.json",
       "type": "application/json",
       "title": "9mfurqs6iNWCSY6_DIkr"
+    },
+    {
+      "rel": "self",
+      "href": "feature.json",
+      "type": "application/json"
     }
   ],
   "assets": {
