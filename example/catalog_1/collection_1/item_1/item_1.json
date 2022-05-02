@@ -1,7 +1,7 @@
 {
   "type": "Feature",
   "stac_version": "1.0.0",
-  "id": "f64ec59457924983bba563d2f3411d21",
+  "id": "item_1",
   "properties": {
     "datetime": "1259-12-14T15:32:41Z",
     "proj:epsg": 748952,
@@ -11,13 +11,13 @@
   "links": [
     {
       "rel": "root",
-      "href": "catalog.json",
+      "href": "../../catalog.json",
       "type": "application/json",
       "title": "P7kaTaHW76t6uJUKGA7Q"
     },
     {
       "rel": "parent",
-      "href": "collection.json",
+      "href": "../collection.json",
       "type": "application/json",
       "title": "9mfurqs6iNWCSY6_DIkr"
     },
